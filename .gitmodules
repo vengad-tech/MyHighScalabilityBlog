@@ -1,0 +1,9 @@
+[submodule "themes/engimo"]
+	path = themes/engimo
+	url = https://github.com/achary/engimo.git
+[submodule "themes/minimo"]
+	path = themes/minimo
+	url = https://github.com/MunifTanjim/minimo
+[submodule "themes/whiteplain"]
+	path = themes/whiteplain
+	url = https://github.com/taikii/whiteplain.git
